@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Jot
+Name[da]=Jot
+Comment=Local notes and to-dos
+Comment[da]=Lokale noter og opgaver
+Exec=jot open
+Icon=jot
+Terminal=false
+Categories=Utility;TextEditor;
+Keywords=notes;todo;tasks;checklist;
+Keywords[da]=noter;opgaver;huskeliste;
+StartupWMClass=jot
